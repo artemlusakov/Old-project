@@ -1,0 +1,10 @@
+.build/
+.dep/
+cgen/
+EXPORT
+FONTS
+SYS
+TOUCHKEYS
+VECTORGRAPHICS
+.vscode/
+GSe-VISU-W.ini

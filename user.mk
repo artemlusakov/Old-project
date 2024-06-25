@@ -1,0 +1,1 @@
+LIBS += j1939-usercS iniS logS
